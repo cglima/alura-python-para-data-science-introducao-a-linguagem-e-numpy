@@ -1,0 +1,1 @@
+# alura-python-para-data-science-introducao-a-linguagem-e-numpy
